@@ -1,2 +1,2 @@
 # kubernetesClusterDoc
-This is my hands-on documentation n kubernetes cluster
+This is my hands-on documentation kubernetes cluster
